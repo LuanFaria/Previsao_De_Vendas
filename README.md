@@ -55,7 +55,9 @@ Teste da AI e Avaliação do Melhor Modelo
 
 
 TV        29408.5  (87,12%)
+
 Radio      4652.8  (11,53%)
+
 Jornal     6110.8  (1,3%)
 
 
