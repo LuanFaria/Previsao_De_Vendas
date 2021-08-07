@@ -67,7 +67,7 @@ Jornal     6110.8  (1,3%)
 
 
 # Tecnologias utilizadas
-## Back end e Front end
+
 - Python 3
 - Jupyter Notebook
 - IA
