@@ -54,11 +54,12 @@ Teste da AI e Avaliação do Melhor Modelo
 # Qual a importância de cada variável para as vendas?
 
 
-TV        29408.5  (87,12%)
 
-Radio      4652.8  (11,53%)
+TV        87,12%
 
-Jornal     6110.8  (1,3%)
+Radio     11,53%
+
+Jornal      1,3%
 
 
 ![image](https://user-images.githubusercontent.com/85500922/128602734-52070b5a-cf35-44a5-8b1c-84a0f843bf55.png)
