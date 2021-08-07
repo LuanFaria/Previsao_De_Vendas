@@ -17,6 +17,7 @@ Passo a Passo de um Projeto de Ciência de Dados
     Passo 7: Interpretação de Resultados
 
 Importar a Base de dados
+
 Análise Exploratória
 
     Vamos tentar visualizar como as informações de cada item estão distribuídas
