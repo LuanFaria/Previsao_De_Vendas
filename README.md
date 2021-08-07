@@ -48,7 +48,7 @@ Teste da AI e Avaliação do Melhor Modelo
 
 # Visualização Gráfica das Previsões
 
-![image](https://user-images.githubusercontent.com/85500922/128602715-41c172a3-4597-4b0b-86ac-b262b87c6d97.png)
+![image](https://user-images.githubusercontent.com/85500922/128603036-18d1c4da-d70a-4467-b3fa-25f385d6ae1a.png)
 
 
 # Qual a importância de cada variável para as vendas?
