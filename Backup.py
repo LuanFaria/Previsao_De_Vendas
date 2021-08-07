@@ -69,5 +69,12 @@ print()
 print('Tv,   Radio,   Jornal')
 print(randomforest.feature_importances_)
 print()
-print(dados[['TV', 'Radio', 'Jornal']].sum())
+
+
 # resultados
+resultado = (dados[['TV', 'Radio', 'Jornal']].sum())
+print(resultado)
+informa = randomforest.feature_importances_
+plt.rcParams.update({'font.size': 15})
+nome = ['Tv', 'Radio', 'Jornal']
+plt.bar(nome, informa )
