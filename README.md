@@ -3,8 +3,7 @@
 
 # Sobre o projeto
 
-
-    Nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa Hashtag investe: TV, Jornal e Rádio
+Nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes de comunicação: TV, Jornal e Rádio
 
 Passo a Passo de um Projeto de Ciência de Dados
 
@@ -18,46 +17,69 @@ Passo a Passo de um Projeto de Ciência de Dados
 
 Importar a Base de dados
 
+[advertising.csv](https://github.com/LuanFaria/Previsao_De_Vendas/files/6949114/advertising.csv)
+
+
 Análise Exploratória
 
-    Vamos tentar visualizar como as informações de cada item estão distribuídas
-    Vamos ver a correlação entre cada um dos itens
+    Visualizar como as informações de cada item estão distribuídas.
+    Correlação entre cada um dos itens.
+    
+    
+![image](https://user-images.githubusercontent.com/85500922/128602702-4df7377f-02c6-447c-b7e0-5960b254a3ac.png)
 
-Com isso, podemos partir para a preparação dos dados para treinarmos o Modelo de Machine Learning
+![image](https://user-images.githubusercontent.com/85500922/128602707-de2cb33f-3eb4-455c-8238-d1fa634828fd.png)
+    
+    
+Preparação dos dados para treinarmos o Modelo de Machine Learning
 
     Separando em dados de treino e dados de teste
 
-Temos um problema de regressão - Vamos escolher os modelos que vamos usar:
+Modelos de regressão
 
     Regressão Linear
     RandomForest (Árvore de Decisão)
 
 Teste da AI e Avaliação do Melhor Modelo
 
-    Vamos usar o R² -> diz o % que o nosso modelo consegue explicar o que acontece
+    Usar o R² -> diz o % que o nosso modelo consegue explicar o que acontece...
     Também vamos olhar o MSE (Erro Quadrático Médio) -> diz o quanto o nosso modelo "erra" quando tenta fazer uma previsão
 
-Visualização Gráfica das Previsões
-Qual a importância de cada variável para as vendas?
-Será que estamos investindo certo?
+
+# Visualização Gráfica das Previsões
+
+![image](https://user-images.githubusercontent.com/85500922/128602715-41c172a3-4597-4b0b-86ac-b262b87c6d97.png)
 
 
-## Layout mobile
-![image](https://user-images.githubusercontent.com/85500922/125149152-9f65b780-e10d-11eb-8e2b-cba8470020d4.png)
+# Qual a importância de cada variável para as vendas?
 
-![image](https://user-images.githubusercontent.com/85500922/125149270-624df500-e10e-11eb-8520-df37eda20b83.png)
+
+TV        29408.5  (87,12%)
+Radio      4652.8  (11,53%)
+Jornal     6110.8  (1,3%)
+
+
+![image](https://user-images.githubusercontent.com/85500922/128602734-52070b5a-cf35-44a5-8b1c-84a0f843bf55.png)
+
+
 
 
 # Tecnologias utilizadas
 ## Back end e Front end
 - Python 3
-- CSS
-- Qt 5 Designer
+- Jupyter Notebook
+- IA
+- Tratamento de dados
+
 
 ## Bibliotecas Python
-- Sys
-- Pytube
-- PyQt5.QtWidgets
+- Pandas
+- Seaborn
+- matplotlib.pyplot
+- sklearn
+- sklearn.ensemble 
+- sklearn.linear_model
+- sklearn.model_selection
 
 # Autor
 
