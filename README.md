@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes de comunicação: TV, Jornal e Rádio
+Prever as vendas em determinado período com base nos gastos em anúncios nas 3 grandes redes de comunicação: TV, Jornal e Rádio
 
 Passo a Passo de um Projeto de Ciência de Dados
 
