@@ -73,6 +73,7 @@ Jornal      1,3%
 - Jupyter Notebook
 - IA
 - Tratamento de dados
+- Data Science
 
 
 ## Bibliotecas Python
